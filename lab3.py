@@ -16,4 +16,5 @@ print("The total salaary is:", sum(L1))
 
 # Document
 # This is the place i have worked for req - 1 on 03 - 09 - 2024
+# Try to work on all requirements and push the developments to github repo
 
